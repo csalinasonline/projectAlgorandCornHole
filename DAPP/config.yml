@@ -1,0 +1,18 @@
+accounts:
+  account_1:
+    address: -
+    mnemonic: -
+    private_key:-
+  account_2:
+    address: -
+    mnemonic: -
+    private_key: -
+  account_3:
+    address: -
+    mnemonic: -
+    private_key: -
+  total: 3
+
+client_credentials:
+  address: https://testnet-algorand.api.purestake.io/ps2
+  token: -
